@@ -2,7 +2,7 @@
 
 ## 关于我们
 
-UoP 是 Union of proletariats 的缩写，意思是无产阶级联盟。我们是 [Screeps](https://screeps.com) 游戏内的中国人组织。
+UoP 是 Union of Proletariats 的缩写，意思是无产阶级联盟。我们是 [Screeps](https://screeps.com) 游戏内的中国人组织。
 
 ## 加入我们
 
@@ -12,12 +12,24 @@ UoP 是 Union of proletariats 的缩写，意思是无产阶级联盟。我们�
 
 qq 群：565401831
 
-# Welcome to UoP
+slack 频道：#uop
 
-work in progress
+外交：如果方便的话可以在qq群。也可以提交[issues](https://github.com/UoP-screeps/index/issues)，加上*diplomacy* 的标签，并且@提醒 [@cookiesjuice](https://github.com/cookiesjuice)和[@HoPGoldy](https://github.com/HoPGoldy)
+
+# Welcome to UoP
 
 ## About Us
 
+Union of Proletariats (UoP) is a Chinese organization in Game [Screeps](https://screeps.com)
+
 ## Join Us
 
+We are currently only open for Chinese speaking players.
+
 ## Contact
+
+QQ group: 565401831
+
+Slack channel: #uop
+
+Diplomacy: Open [issues](https://github.com/UoP-screeps/index/issues) with tag *diplomacy*, and @mention [@cookiesjuice](https://github.com/cookiesjuice) and [@HoPGoldy](https://github.com/HoPGoldy)
