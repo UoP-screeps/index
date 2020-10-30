@@ -14,7 +14,7 @@ qq 群：565401831
 
 slack 频道：#uop
 
-外交：如果方便的话可以在qq群。也可以提交[issues](https://github.com/UoP-screeps/index/issues)，加上*diplomacy* 的标签，并且@提醒 [@cookiesjuice](https://github.com/cookiesjuice)和[@HoPGoldy](https://github.com/HoPGoldy)
+外交：如果方便的话可以在qq群。也可以在slack上发消息给**Cookies**。如果没有回应，可以提交[issues](https://github.com/UoP-screeps/index/issues)，加上*diplomacy* 的标签，并且@提醒 [@cookiesjuice](https://github.com/cookiesjuice)，他会收到邮件提醒。
 
 # Welcome to UoP
 
@@ -32,4 +32,4 @@ QQ group: 565401831
 
 Slack channel: #uop
 
-Diplomacy: Open [issues](https://github.com/UoP-screeps/index/issues) with tag *diplomacy*, and @mention [@cookiesjuice](https://github.com/cookiesjuice) and [@HoPGoldy](https://github.com/HoPGoldy)
+Diplomacy: You can send message to **Cookies** on slack. If he does not reply, open [issues](https://github.com/UoP-screeps/index/issues) with tag *diplomacy*, and @mention [@cookiesjuice](https://github.com/cookiesjuice), so he can receive email notification.
